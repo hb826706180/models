@@ -1,4 +1,4 @@
-module github.com/hb826706180/go-models
+module github.com/hb826706180/models
 
 
 go 1.23.5

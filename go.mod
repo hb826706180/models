@@ -1,6 +1,7 @@
 module github.com/18087873519/models
 
-go 1.23.4
+
+go 1.23.5
 
 require (
     github.com/forgoer/openssl v1.6.0
